@@ -1,7 +1,7 @@
 {
     "Author": "Farouk Friha",
     "ContentSize": 4766,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/add-disk-to-an-existing-vm-(arm-only)/master/Add-DataDiskToRmVM.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/add-disk-to-an-existing-vm--arm-only-/master/Add-DataDiskToRmVM.ps1",
     "DownloadCount": 890,
     "Id": "Add-a-new-data-disk-to-an-9f4573c7",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This runbook connects to Azure and add a new data disk to an existing virtual machine (ARM only) of a resource group.",
     "Title": "Add disk to an existing VM (ARM only)",
     "UpdatedDate": "2016-1-30T00:00:00",
-    "Url": "https://github.com/azureautomation/add-disk-to-an-existing-vm-(arm-only)",
+    "Url": "https://github.com/azureautomation/add-disk-to-an-existing-vm--arm-only-",
     "UserTags": "Powershell, Azure Automation, Microsoft Azure Virtual Machines"
 }
